@@ -2,13 +2,13 @@
     color: #bb8e07da; 
     font-weight: 900;
     margin: auto;
-    width: 50%;
-    border: 3px solid green;
+    width: 100%;
+    text-decoration: underline;
     padding: 10px;
     text-align: center;
     
 }
 .h2 {
-    color: #43601b;
+    color: #c1ec83;
     text-align: center
 }

@@ -1,0 +1,38 @@
+.cardShadow {
+    box-shadow:
+    0 6.9px 1.5px rgba(0, 0, 0, 0.027),
+    0 11.5px 3.9px rgba(0, 0, 0, 0.036),
+    0 14.7px 8.2px rgba(0, 0, 0, 0.042),
+    0 17.3px 19.4px rgba(0, 0, 0, 0.048),
+    0 20px 30.5px rgba(0, 0, 0, 0.055),
+    0 23.2px 35.2px rgba(0, 0, 0, 0.067),
+    0 27px 38px rgba(0, 0, 0, 0.1)
+  ;
+ }
+
+ .cardBackground {
+    background: rgb(106, 170, 10);
+    background: linear-gradient(90deg, rgba(194, 168, 18, 0.337) 0%, rgba(3,38,5,0.2861519607843137) 50%, rgba(7, 7, 1, 0.317) 100%); border-style: groove;
+ }
+
+ .hikeP {
+    font-family: "overlock";
+    font-size: large;
+}
+
+.floatR {
+   float: right;
+}
+
+.floatL {
+   float: left;
+}
+
+.mainBody {
+   background: linear-gradient(to bottom,  rgba(240,183,161,1) 0%,rgba(140,51,16,1) 50%,rgba(117,34,1,1) 51%,rgba(191,110,78,1) 100%);
+
+}
+h1 {
+   font-family: "fredoka one";    
+   font-size: larger;
+}
